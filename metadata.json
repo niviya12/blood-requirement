@@ -1,0 +1,6 @@
+{
+  "name": "RaktaLink - AI Blood Requirement & Smart Matching",
+  "description": "AI-based blood demand prediction, smart donor matching, emergency prioritization, and real-time blood network connecting Donors, Hospitals, Blood Banks, and Admin.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
