@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Blood Requirement Prediction and Smart Donor Matching System
 
-# Run and deploy your AI Studio app
+AI-Based Blood Requirement Prediction and Smart Donor Matching System.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/6f1a0a3e-46af-459f-a087-67df0e533bc3
+- Donor Registration and Login
+- Hospital Dashboard
+- Blood Bank Management
+- Smart Donor Matching
+- Emergency Blood Requests
+- Blood Demand Prediction
+- Location-Based Matching
+- Admin Dashboard
+- Real-Time Notifications
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Firebase
+- Machine Learning
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm install
+npm run dev
